@@ -66,8 +66,8 @@ RIDS-PROJ1/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tsintruder.git
-cd tsintruder
+git clone https://github.com/yhodamaruu/rids-proj1.git
+cd rids-proj1
 ```
 
 2. Install dependencies:
